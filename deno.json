@@ -1,0 +1,9 @@
+{
+  "name": "@yizy/spec",
+  "version": "0.0.1",
+  "exports": {
+    ".": "./specification.ts",
+    "./constants": "./constants.ts"
+  },
+  "license": "MIT"
+}
